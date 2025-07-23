@@ -65,3 +65,5 @@ To explore patterns in coupon acceptance behavior and identify the characteristi
   * Drivers **alone** or with **friends** were more likely to accept coffee coupons.
   * **Kid passengers** were associated with lower acceptance rates.
 * Visualized acceptance by passenger type using a grouped bar plot.
+
+![High Frequency, No Kid Passenger, Not Widowed](images/coffee.png)
