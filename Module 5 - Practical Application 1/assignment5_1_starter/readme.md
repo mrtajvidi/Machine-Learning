@@ -32,10 +32,13 @@ To explore patterns in coupon acceptance behavior and identify the characteristi
 
    * Higher acceptance among frequent bar-goers over 25.
 
+![High Frequency & Age > 25 vs Others](images/bar-gt-1month-and-age-gt-25.png)
+
 2. **High Frequency, No Kid Passenger, Not Widowed**
 
    * Significantly higher acceptance rates than others.
 
+![High Frequency, No Kid Passenger, Not Widowed](images/bar-gt-1month-and-no-kids-not-farming.png)
 3. **Bar >1/mo & Age < 30**
 
    * Young frequent bar-goers also showed higher acceptance.
@@ -50,6 +53,7 @@ To explore patterns in coupon acceptance behavior and identify the characteristi
    * Group 2: Acceptance \~69%
    * Group 3: Acceptance \~67%
 
+![All 3](images/bar-gt-1month-and-age-lt-30.png)
 ---
 
 ### **Coffee House Coupon Analysis**
