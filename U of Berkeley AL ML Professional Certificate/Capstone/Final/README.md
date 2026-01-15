@@ -201,7 +201,7 @@ This research addresses a fundamental challenge in enterprise cybersecurity: bri
 
 *Figure 2: PR-AUC performance - Student with LLM maintains perfect precision-recall balance*
 
-![PR-AUC Comparison](/Images/PR-AUC%20Comparison%20Across%20All%20Models.png)
+![PR-AUC Comparison](Images/PR-AUC%20Comparison%20Across%20All%20Models.png)
 
 
 *Figure 3: Cross-validation stability - All models show robust performance across folds*
