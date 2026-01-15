@@ -196,30 +196,30 @@ This research addresses a fundamental challenge in enterprise cybersecurity: bri
 
 *Figure 1: ROC-AUC performance across all 4 models - Student with LLM achieves perfect 1.0000*
 
-![ROC-AUC Comparison](images/ROC-AUC%20Comparision%20Across%20All%20Models.png)
+![ROC-AUC Comparison](Images/ROC-AUC%20Comparision%20Across%20All%20Models.png)
 
 
 *Figure 2: PR-AUC performance - Student with LLM maintains perfect precision-recall balance*
 
-![PR-AUC Comparison](/images/PR-AUC%20Comparison%20Across%20All%20Models.png)
+![PR-AUC Comparison](/Images/PR-AUC%20Comparison%20Across%20All%20Models.png)
 
 
 *Figure 3: Cross-validation stability - All models show robust performance across folds*
 
-![CV Stability](images/All%20Models%20Cross-Validations%20Stability%20Comparison.png)
+![CV Stability](Images/All%20Models%20Cross-Validations%20Stability%20Comparison.png)
 
 *Figure 4: Direct comparison of ROC-AUC vs PR-AUC on test set*
 
-![Test Performance](images/All%20Models%20Test%20Set%20ROC-AUC%20vs%20PR-AUC%20Comparison.png)
+![Test Performance](Images/All%20Models%20Test%20Set%20ROC-AUC%20vs%20PR-AUC%20Comparison.png)
 
 *Figure 5: Baseline Logistic Regression confusion matrix*
 
-![Baseline LR Confusion Matrix](images/Logistic%20Regression%20Confusion%20Matrix%20(Baseline).png)
+![Baseline LR Confusion Matrix](Images/Logistic%20Regression%20Confusion%20Matrix%20(Baseline).png)
 
 
 *Figure 6: Baseline Random Forest confusion matrix*
 
-![Baseline RF Confusion Matrix](images/Random%20Forest%20Confusion%20Matrix%20(Baseline).png)
+![Baseline RF Confusion Matrix](Images/Random%20Forest%20Confusion%20Matrix%20(Baseline).png)
 
 **Business Impact:**
 
@@ -279,7 +279,7 @@ This research addresses a fundamental challenge in enterprise cybersecurity: bri
 9. **Model Comparison** - Comprehensive evaluation with 4 comparison visualizations
 10. **Conclusions** - Business value, limitations, future work
 
-**Visualizations:** All figures saved in `images/` folder (9 total)
+**Visualizations:** All figures saved in `Images/` folder (9 total)
 
 **Expected Runtime:** ~150-165 minutes (2.5-3 hours) for full pipeline execution
 - Note: Section 8.1 (Prepare Ground Truth) is the bottleneck at ~117 minutes
